@@ -1,21 +1,3 @@
-Skip to content
- 
-Search…
-All gists
-GitHub
-New gist
-@jameskirsch 
- Edit
-  Delete
-  Star 0 @jameskirschjameskirsch/exercise1-10.c
-Last active a month ago
-Embed  
-<script src="https://gist.github.com/jameskirsch/8bb396feee7f6fcc6740f3eeae04f62c.js"></script>
-  Download ZIP
- Code  Revisions 2
-K&R Exercise 1-10
-Raw
- exercise1-10.c
 // Coding Challenge from the K&R Classic - C Programming
 // K&R Exercise 1-10
 
